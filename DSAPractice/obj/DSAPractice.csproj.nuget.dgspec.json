@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karin\\codefellows\\401\\Prework-CodeChallenges\\DSAPractice\\DSAPractice\\DSAPractice.csproj": {}
+    "C:\\Users\\karin\\source\\repos\\dsapractice\\dsapractice\\dsapractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karin\\codefellows\\401\\Prework-CodeChallenges\\DSAPractice\\DSAPractice\\DSAPractice.csproj": {
+    "C:\\Users\\karin\\source\\repos\\dsapractice\\dsapractice\\dsapractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karin\\codefellows\\401\\Prework-CodeChallenges\\DSAPractice\\DSAPractice\\DSAPractice.csproj",
-        "projectName": "DSAPractice",
-        "projectPath": "C:\\Users\\karin\\codefellows\\401\\Prework-CodeChallenges\\DSAPractice\\DSAPractice\\DSAPractice.csproj",
+        "projectUniqueName": "C:\\Users\\karin\\source\\repos\\dsapractice\\dsapractice\\dsapractice.csproj",
+        "projectName": "dsapractice",
+        "projectPath": "C:\\Users\\karin\\source\\repos\\dsapractice\\dsapractice\\dsapractice.csproj",
         "packagesPath": "C:\\Users\\karin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karin\\codefellows\\401\\Prework-CodeChallenges\\DSAPractice\\DSAPractice\\obj\\",
+        "outputPath": "C:\\Users\\karin\\source\\repos\\dsapractice\\dsapractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karin\\AppData\\Roaming\\NuGet\\NuGet.Config",

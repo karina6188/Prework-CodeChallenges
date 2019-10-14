@@ -1,0 +1,11 @@
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\bin\Debug\netcoreapp3.0\DSAPractice.exe
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\bin\Debug\netcoreapp3.0\DSAPractice.deps.json
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\bin\Debug\netcoreapp3.0\DSAPractice.runtimeconfig.json
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\bin\Debug\netcoreapp3.0\DSAPractice.runtimeconfig.dev.json
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\bin\Debug\netcoreapp3.0\DSAPractice.dll
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\bin\Debug\netcoreapp3.0\DSAPractice.pdb
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\obj\Debug\netcoreapp3.0\DSAPractice.csprojAssemblyReference.cache
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\obj\Debug\netcoreapp3.0\DSAPractice.AssemblyInfoInputs.cache
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\obj\Debug\netcoreapp3.0\DSAPractice.AssemblyInfo.cs
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\obj\Debug\netcoreapp3.0\DSAPractice.dll
+C:\Users\karin\codefellows\401\Prework-CodeChallenges\DSAPractice\obj\Debug\netcoreapp3.0\DSAPractice.pdb
